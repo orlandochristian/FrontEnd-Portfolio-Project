@@ -1,0 +1,244 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    background-color: rgb(202, 205, 208);
+}
+
+header {
+    
+    padding-top: 5px;
+    width: 100%;
+    background-color: rgb(234, 237, 238);
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+header h1 {
+    color: rgb(1, 82, 1);
+}
+
+
+.dropdownbox {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  
+}
+
+header select {
+    font-size: 1.2rem;
+}
+
+
+
+
+
+
+.container-flex {
+    width: 100%;
+    background-color: rgb(234, 237, 238);
+    border-radius: 20px;
+}
+
+.container-flex h3 {
+    text-align: center;
+}
+
+
+.photo-gallery {
+    display: flex;
+    justify-content: center;
+    
+   
+}
+.col1 {
+    row-gap: 10px;
+    column-gap: 10px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+    column-gap: 10px;
+
+ 
+}
+
+.single-img img {
+    max-width: 300px;
+    max-height: 300px;  
+    border-radius: 25px; 
+}
+
+
+
+
+
+
+/* Style navigation menu links */
+
+.topnav .icon {
+    padding-top: 30px;
+    padding-right: 10px;
+}
+
+.topnav a {
+    color: rgb(1, 82, 1);
+    text-decoration:solid;
+    font-size: 17px;
+    display: block;
+  }   
+  
+   /* Style the navigation menu */
+  .topnav {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    position: relative;
+    
+  } 
+  
+  /* Hide the links inside the navigation menu (except for logo/home) */
+  .topnav #myLinks {
+    display: none;
+  }
+
+  .topnav a:hover {
+    color: orange;
+  } 
+
+
+  .container-grid {
+    margin: 15px;
+    width: 99%;
+    display: flex;
+    flex: 1;
+   
+  }
+
+  .aside-left {
+    float: left;
+    width: 19%;
+    background-color:rgb(202, 205, 208);
+  }
+.aside-left h2 {
+    color: rgb(1, 82, 1);
+}
+
+
+
+.main-grid {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    float: left;
+    overflow: hidden;
+    width: 59%;
+    background-color: rgb(202, 205, 208);
+}  
+
+.aside-right {
+    float: left;
+    width: 19%;
+    overflow: hidden;
+  background-color: rgb(202, 205, 208);
+}
+.aside-right h2 {
+    color: rgb(1, 82, 1);
+}
+.aside-right p {
+    color: rgb(1, 82, 1);
+}
+
+.aside-right h3 {
+    display: none;
+    color: rgb(1, 82, 1);
+
+}
+
+.wrapper {
+    grid-column: span 4;
+    width: 90%;
+    margin-left: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.pic-text-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tarjeta {
+    padding: 5px;
+    margin: 5px;
+    width: 25%px;
+    height: 150px;
+}
+  
+ img {
+    
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 20px;
+
+ } 
+ .btn {
+    padding: 8px;
+    background-color: rgb(217, 215, 212);
+    color: rgb(1, 82, 1);
+    border-radius: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+ }
+
+ .btn:hover {
+    background-color: orange;
+ }
+
+ .portfolio {
+    background-color: rgb(202, 205, 208);
+    color: rgb(1, 82, 1);
+    text-align: center;
+   
+ }
+
+ form input {
+    padding: 7px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+  }
+
+form button[type="submit"] {
+  background: rgb(210, 208, 205);
+  border-radius: 7px;
+  color: rgb(1, 82, 1);;
+  cursor: pointer;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+form button[type="submit"]:hover {
+  background: orange;
+}
+ 
+.required {
+    color: red;
+  }
+
+  form label {
+      color: rgb(1, 82, 1);;
+  }
+
+ 
+
+
+
+
+
+
+  
+ 
+
