@@ -3,8 +3,11 @@
 For this project, I built a website that I made using the [Dog API](https://dog.ceo/dog-api) URL to get different end-points and get data of dogs breeds. This End-Point gets photos of dogs of a selected breed. This project covers all the requirements and extra add ons.
 
 ## Deployed URL
-   The URL where this Website was deployed is: 
+   To see the Front End project [Click here](https://www.hopechaser.com/pursuit-module2-frontendproject/)
 
+   ```
+    URL deployed: https://www.hopechaser.com/pursuit-module2-frontendproject/
+   ```
 
 ## walk around the Dog Breeds Website Project
 

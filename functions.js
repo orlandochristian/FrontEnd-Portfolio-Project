@@ -259,6 +259,14 @@ function myFunction() {
 
 
 
+
+
+
+
+
+
+
+
   let description = [
     {name: "affenpinscher",desc:"Affenpinschers are courageous, bold, and often feisty. Basic obedience training is recommended. The breed has an undeserved reputation as being difficult to train because Affenpinschers are independent minded and can be stubborn."},
     {name: "african",desc:"While they generally have an exceptionally friendly and patient demeanor when it comes to people of all ages, they still require a sense of space and are sometimes uncomfortable with an abundance of physical contact."},
@@ -279,7 +287,7 @@ function myFunction() {
     {name: "bullterrier" ,desc:"Among the most comical and mischievous citizens of dogdom, the Bull Terrier is playful and endearing, sometimes stubborn, but always devoted. These unique 'eggheads' are exuberant, muscular companions who thrive on affection and exercise."},
     {name: "cattledog" ,desc:"Cattle dog is extremely alert, intelligent, watchful and courageous. Highly trustworthy and reliable, they have a tenacious sense of duty. Loyal to their owners and wary of strangers, they are fiercely protective when used as a watch dog, although they are not barkers."},
     {name: "chow" ,desc:"The Chow Chow can be traced back almost 2,000 years when they were bred as hunting and guard dogs in China. Known for their cute, teddy bear-like appearance and a unique blue-black tongue, the Chow Chow is both independent but also very loyal."},
-    {name: "clumbers" ,desc:"Clumbers are sweet and easygoing at home, but these outdoorsy fellows can be relentless on scent. Smart and eager-to-please Clumbers respond well to training. Though a bit wary around strangers, Clumbers are friendly dogs who bark only when they have something to say, and so make indifferent watchdogs."},
+    {name: "clumber" ,desc:"Clumbers are sweet and easygoing at home, but these outdoorsy fellows can be relentless on scent. Smart and eager-to-please Clumbers respond well to training. Though a bit wary around strangers, Clumbers are friendly dogs who bark only when they have something to say, and so make indifferent watchdogs."},
     {name: "cockapoo" ,desc:"Cockapoos are intelligent, loyal and with good training and stimulation, make brilliant pets.The perfect blend between the outgoing personality of the Cockapoo with the low-shedding qualities of the Poodle"},
     {name: "collie" ,desc:"The Border Collie dog breed is a native of Scotland, mostly of the Highland regions but also bred in the Scottish Lowlands and northern England, where they were used primarily as a herding dog. They’re great family companions and are still capable herding dogs."},
     {name: "coonhound" ,desc:"These dogs are first and fundamentally working dogs – they hunt large and small game. Though good-natured and easygoing, these hardy hounds are so in need of hard physical exercise that they belong with an owner who will take them hunting, jogging (on dirt or grass, not concrete), hiking, and/or swimming."},
