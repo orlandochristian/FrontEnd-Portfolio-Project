@@ -1,6 +1,6 @@
 # Front-end Portfolio Project
 
-For this project,  I builded a website that I made use of the [Dog API](https://dog.ceo/dog-api) URL to get differents end-points and get data of dogs breeds. This End-Points get photos of dogs of a selected breed. This project covers all the requirements and extra add ons.
+For this project, I built a website that I made using the [Dog API](https://dog.ceo/dog-api) URL to get different end-points and get data of dogs breeds. This End-Point gets photos of dogs of a selected breed. This project covers all the requirements and extra add ons.
 
 ## Deployed URL
    The URL where this Website was deployed is: 
