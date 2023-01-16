@@ -1,9 +1,9 @@
 # Front-end Portfolio Project
 
-For this project, I built a website  using the [Dog API](https://dog.ceo/dog-api) URL to get different end-points and get data of dogs breeds. This End-Point gets photos of dogs of a selected breed. This project covers all the requirements and extra add ons.
+For this project, I built a website  using the [Dog API](https://dog.ceo/dog-api) URL to get different end-points and get data of dogs breeds. Those End-Points gets photos of dogs of a selected breed. This project covers all the requirements and extra add ons.
 
 ## Deployed URL
-   To see the Front End project [Click here](https://www.hopechaser.com/pursuit-module2-frontendproject/)
+   To see the FrontEnd dog Breeds website project [Click here](https://www.hopechaser.com/pursuit-module2-frontendproject/)
 
    ```
     URL deployed: https://www.hopechaser.com/pursuit-module2-frontendproject/
@@ -15,7 +15,7 @@ For this project, I built a website  using the [Dog API](https://dog.ceo/dog-api
 
 1. Paw logo on top left corner.
 
-2.WebSite Title with a dropdownList with all dog breeds coming from the API in the middle
+2. WebSite Title with a dropdownList with all dog breeds coming from the API in the middle
 
 ```
 Dog Breeds Choose a dog Breed
@@ -37,18 +37,15 @@ Pursuit-Fellowship is a link to Pursuit Felowship web page
  
 
 ### When Website loads
- it shows a specific dog breed and also a section where you can see dogs and humans similarities 
+ it shows a specific dog breed, a section where you can see dogs with humans similarities, a form to submit for dogs adoption and also the porfolio link 
 
 ### Html, Css and js files
 
 I use two html files in this project index.html and about.html, two css files style.css and about.css and also two js files script.js and functions.js
 
-### Grid vs FlexBox 
+### Grid and also FlexBox 
 
-This project use both the required Grid and also a Flexbox container
-
-
-A page will open in your browser. This page will refresh whenever you save a file in your project.
+This project use both, the required Grid and also a Flexbox containers
 
 
 
