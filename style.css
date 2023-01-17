@@ -154,6 +154,8 @@ header select {
 .aside-right h2 {
     color: navy;
 }
+
+
 .aside-right p {
     color: navy;
 }
@@ -163,6 +165,8 @@ header select {
     color: navy;
 
 }
+
+
 
 .wrapper {
     grid-column: span 4;
@@ -184,6 +188,8 @@ header select {
     height: 150px;
     color: #505090;
 }
+
+
   
  img {
     
@@ -204,6 +210,7 @@ header select {
  .btn:hover {
     background-color:  #9dd9f3;;
  }
+
 
  .portfolio {
     background-color: rgb(202, 205, 208);
@@ -239,9 +246,44 @@ form button[type="submit"]:hover {
       color: #505090;;
   }
 
- 
+  @media (max-width: 1000px) {
+    .aside-left {
+        display:  none;
+    } 
+}
 
 
+@media (max-width: 1100px) {
+    .tarjeta {
+        
+        height: 400px;
+    } 
+}
+
+@media (max-width: 1100px) {
+    .aside-right {
+        display: none;
+        width: 5px;   
+    } 
+    .main-grid {
+        width: 800px;
+    }
+    .pic-box {
+        width: 500px;
+    }
+
+    .c123 {
+        display: none;
+    }
+
+}
+
+@media (max-width: 1000px) {
+    header  {
+        background:   #9dd9f3;
+    } 
+    
+}
 
 
 

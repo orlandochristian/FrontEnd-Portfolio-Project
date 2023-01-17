@@ -23,7 +23,7 @@ photogallery.style.columnGap = "8px"
 photogallery.style.padding = "8px"
  // ----------------column 1 ------------------------------------------------------//    
     const column1 = document.createElement("div")
-     column1.setAttribute("class","column") 
+     column1.setAttribute("class","column c123") 
    
      const div1 = document.createElement("div")
      div1.setAttribute("class","single-img")
@@ -44,7 +44,7 @@ photogallery.style.padding = "8px"
 
 // ----------------column 2 ------------------------------------------------------//
 const column2 = document.createElement("div")
-     column2.setAttribute("class","column") 
+     column2.setAttribute("class","column c123") 
    
      const div3 = document.createElement("div")
      div3.setAttribute("class","single-img")
@@ -65,7 +65,7 @@ const column2 = document.createElement("div")
 
 // ----------------column 3 ------------------------------------------------------//
      const column3 = document.createElement("div")
-     column3.setAttribute("class","column") 
+     column3.setAttribute("class","column c123") 
    
      const div5 = document.createElement("div")
      div5.setAttribute("class","single-img")
