@@ -1,6 +1,6 @@
 # Front-end Portfolio Project
 
-For this project, I built a website  using the [Dog API](https://dog.ceo/dog-api) URL to get different end-points and get data of dogs breeds. Those End-Points gets photos of dogs of a selected breed. This project covers all the requirements and extra add ons.
+For this project, I built a reponsive website  using the [Dog API](https://dog.ceo/dog-api) URL to get different end-points and get data of dogs breeds. Those End-Points gets photos of dogs of a selected breed. This project covers all the requirements and extra add ons.
 
 ## Deployed URL
    To see the FrontEnd dog Breeds website project [Click here](https://www.hopechaser.com/pursuit-module2-frontendproject/)
@@ -9,7 +9,7 @@ For this project, I built a website  using the [Dog API](https://dog.ceo/dog-api
     URL deployed: https://www.hopechaser.com/pursuit-module2-frontendproject/
    ```
 
-## walk around the Dog Breeds Website Project
+## walk around the Dog Breeds responsive Website Project
 
 ### Header
 
