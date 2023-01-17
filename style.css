@@ -266,10 +266,16 @@ form button[type="submit"]:hover {
         width: 5px;   
     } 
     .main-grid {
-        width: 800px;
-    }
-    .pic-box {
         width: 500px;
+        
+    }
+
+    .borrar {
+        width: 400px;
+
+    }
+    .Container-grid {
+        width: 600px;
     }
 
     .c123 {
