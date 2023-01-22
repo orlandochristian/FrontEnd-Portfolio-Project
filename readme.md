@@ -10,6 +10,8 @@ For this project, I built a reponsive website  using the [Dog API](https://dog.c
    ```
 
 ## Video Presentation
+
+ to see the video [click here](https://us06web.zoom.us/rec/share/2IF5bz3YFfXipgUhKOQ8J_D0mm-QtfTMNQhFBnW7lHGsmrZ0cWegdgHcrO4-k5Mv.DuxLS0lgOKBvgrhJ?startTime=1674415384000)  Passcode: jv1gNmU=
    ```
     https://us06web.zoom.us/rec/share/2IF5bz3YFfXipgUhKOQ8J_D0mm-QtfTMNQhFBnW7lHGsmrZ0cWegdgHcrO4-k5Mv.DuxLS0lgOKBvgrhJ?startTime=1674415384000
     Passcode: jv1gNmU=
